@@ -91,7 +91,17 @@ In today’s digital world, systems are exposed to multiple network vulnerabilit
 
 ## 🖥️ Screenshots
 
-👉 Add your screenshots here (GUI + Output + Graph)
+👉 ## 🖼️ Screenshots
+
+### 🔹 Network Port Scanner GUI Output
+<p align="center">
+  <img src="./ports.png" width="700"/>
+</p>
+
+### 🔹 Port Scan Distribution Analysis
+<p align="center">
+  <img src="./port_scan_pie_chart.png" width="500"/>
+</p>
 
 ---
 
