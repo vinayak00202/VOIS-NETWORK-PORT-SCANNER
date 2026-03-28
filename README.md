@@ -107,11 +107,15 @@ In today’s digital world, systems are exposed to multiple network vulnerabilit
 
 ## 🎓 Certifications
 
-### 🛡️ Protection from Browser Attacks  
-👉 Add certificate image  
+### 🛡️ Protection from Browser Attacks
+<p align="center">
+  <img src="./1774673804323.png" width="700"/>
+</p>
 
-### 🔐 Introduction to System Security  
-👉 Add certificate image  
+### 🔐 Introduction to System Security
+<p align="center">
+  <img src="./1774673816590.png" width="700"/>
+</p>  
 
 ---
 
