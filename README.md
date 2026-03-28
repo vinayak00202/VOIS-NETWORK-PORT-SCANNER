@@ -111,12 +111,6 @@ In today’s digital world, systems are exposed to multiple network vulnerabilit
 
 ---
 
-## 🎥 Demo
-
-👉 Add demo/video link (if available)
-
----
-
 ## 🙌 Acknowledgment
 
 This project was developed as part of a cybersecurity learning initiative under AICTE.
@@ -132,4 +126,4 @@ The Network Port Scanner provides a **fast, efficient, and reliable way** to det
 ## ⭐ Thank You
 
 **Thank You!**  
-Feel free to connect and explore more projects 🚀  
+
