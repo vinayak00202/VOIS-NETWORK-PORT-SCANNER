@@ -107,7 +107,7 @@ In today’s digital world, systems are exposed to multiple network vulnerabilit
 
 ## 🔗 GitHub Repository
 
-👉 https://github.com/vinayak00202/network-port-scanner
+👉 https://github.com/vinayak00202/VOIS-NETWORK-PORT-SCANNER.git
 
 ---
 
